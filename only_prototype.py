@@ -1,15 +1,10 @@
-import numpy as np
-import pandas as pd
-#from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier
-#from sklearn.cross_validation import cross_val_score
-#==============================================================================
-# from sklearn.feature_selection import SelectKBest, chi2, SelectPercentile, f_classif, f_regression
-# from sklearn.neighbors import KNeighborsClassifier
-# from sklearn.svm import LinearSVC, SVC
-# from sklearn.preprocessing import OneHotEncoder
-# from sklearn.naive_bayes import GaussianNB
 #==============================================================================
 # Developed by Monu18
+#==============================================================================
+
+import numpy as np
+import pandas as pd
+
 from sklearn.cluster import DBSCAN
 from math import sin, cos, sqrt, atan2, radians
 
